@@ -32,11 +32,11 @@ class MyApp extends StatelessWidget {
                       width: 81),
                 ),
                 TextField(
-                  decoration: InputDecoration(labelText: "아"),
+                  decoration: InputDecoration(labelText: "채"),
                 ),
                 TextField(
                   obscureText: true,
-                  decoration: InputDecoration(labelText: "동건"),
+                  decoration: InputDecoration(labelText: "진우"),
                 ),
                 Container(
                   margin: EdgeInsets.only(top: 24),
